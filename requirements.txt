@@ -1,3 +1,4 @@
-﻿streamlit 
-scikit-learn
-pandas
+joblib
+streamlit
+scikit-learn == 1.6.1
+pandas == 2.2.2
